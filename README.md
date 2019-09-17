@@ -1,4 +1,4 @@
-# koa-init
+# express-sequelize-init
 Initial code for a new Express project using Nodejs,Express and Sequelize
 
 ## Getting started
